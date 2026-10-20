@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MatrixL4/MatrixL4.vcxproj" Id="435a5c0f-8f2a-49a0-a1d6-d37a3e3dac0b" />
+</Solution>
